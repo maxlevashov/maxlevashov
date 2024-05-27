@@ -34,4 +34,7 @@
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
   </a>
+   <a href="https://clickhouse.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" width="40" height="40"/>
+  </a>
 </p>
